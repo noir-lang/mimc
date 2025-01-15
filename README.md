@@ -3,10 +3,13 @@
 
 A Noir implementation of the MiMC hash function.
 
+## Noir version compatibility
+
+This library is tested with all Noir stable releases from v0.35.0.
+
 ## Benchmarks
 
 TODO
-
 
 ## Installation
 
