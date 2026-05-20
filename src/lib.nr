@@ -149,7 +149,7 @@ impl Hasher for MimcHasher {
 
 impl Default for MimcHasher {
     fn default() -> Self {
-        MimcHasher { _state: &[] }
+        MimcHasher { _state: @[] }
     }
 }
 
