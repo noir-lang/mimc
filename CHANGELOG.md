@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/noir-lang/mimc/compare/v0.1.0...v0.1.1) (2026-06-02)
+
+
+### Bug Fixes
+
+* Update vector syntax ([#7](https://github.com/noir-lang/mimc/issues/7)) ([dd65887](https://github.com/noir-lang/mimc/commit/dd658878eacaa796eb5fab16247737b2c6b2796f))
+
 ## 0.1.0 (2024-10-30)
 
 
